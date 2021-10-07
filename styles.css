@@ -29,3 +29,8 @@ div.stat-holder {
 div.stat-holder p{
     font-size: 1em;
 }
+
+div.stat-holder a{
+    text-decoration: none;
+    color: black;
+}
