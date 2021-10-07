@@ -33,4 +33,5 @@ div.stat-holder p{
 div.stat-holder a{
     text-decoration: none;
     color: black;
+    font-weight: bold;
 }
